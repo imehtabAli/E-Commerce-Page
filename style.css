@@ -587,8 +587,12 @@ footer i{
     justify-content: flex-start;
     align-items: center;
     top: 4.5rem;
-    right: 35%;
+    right: 45%;
     transition: .3s linear;
+}
+
+.menu li{
+    margin-left: 5rem;
 }
 
 #check:checked ~ .menu {
